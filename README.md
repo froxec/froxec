@@ -1,6 +1,6 @@
 ## About me 👋
 ## Brief
-- 💡 Fields of interest: Machine Learning 🦾, Computer Science 🖥️, Control Systems 🏎️ ✈️
+- 💡 Fields of interest: Machine Learning 🦾, Computer Science 🖥️, Control Systems and Autonomous Systems 🏎️ ✈️
 - 📚 Education: Machine Learning (Msc) and Automation and Control Systems (BEng) at Gdańsk University of Technology
 
 ## Contact
