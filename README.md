@@ -14,6 +14,7 @@ e-mail: durawa.p.soft@gmail.com
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt=Tensorflow, width=30, height=30/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt=numpy, width=30, height=30/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt=pandas, width=30, height=30/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt=pandas, width=30, height=30/> 
 </div>
 
 #### Programming Languages/Tools
