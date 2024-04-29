@@ -50,7 +50,7 @@ The idea to use ANFIS is based on work of Hirche and Ayalew [[1]](#1).
 #### Model
 - Model was trained using the ANFIS-PyTorch framework implemented by J. Power [[3]](#3).
 - Model for Mazda MX-5 is available.
-- Mazda MX-5 model struggle when vehicle runs on kerbs.
+- Mazda MX-5 model struggles when vehicle runs on kerbs.
 
 #### References
 - <a id="1">[1]</a> 
