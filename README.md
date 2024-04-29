@@ -33,12 +33,12 @@ e-mail: durawa.p.soft@gmail.com
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt=git, width=30, height=30/>
 </div>
 
-## Projects
-
-### Oversteer and understeer detection system for iRacing
+## Oversteer and understeer detection system for iRacing 
 
 This project implements OS/US detection system for iRacing simulator. The detection model is based on Adaptive Neuro Fuzzy Inference System (ANFIS)  [[2]](#2), [[3]](#3).
 The idea to use ANFIS is based on work of Hirche and Ayalew [[1]](#1).
+
+**Project repository**: [US/OS detection system for iRacing](https://github.com/RacingEngineer/OS-US-Detection-for-iRacing)
 
 #### Data collection
 - Data was collected on [Centripetal Circuit](https://www.iracing.com/tracks/centripetal-circuit/).
