@@ -6,33 +6,6 @@
 ## Contact
 e-mail: durawa.p.soft@gmail.com
 
-## Skills 
-
-#### ML Tools
-<div class="MLSkills">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt=PyTorch, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt=Tensorflow, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt=numpy, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt=pandas, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt=pandas, width=30, height=30/> 
-</div>
-
-#### Programming Languages/Tools
-<div class="ProgrammingLanguages">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt=python, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt=cpp, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt=c, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt=cmake, width=30, height=30/>
-</div>
-
-#### System Tools
-<div class="ProgrammingLanguages">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt=docker, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt=linux, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" alt=c, width=30, height=30/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt=git, width=30, height=30/>
-</div>
-
 ## Oversteer and understeer detection system for iRacing 
 
 This project implements OS/US detection system for iRacing simulator. The detection model is based on Adaptive Neuro Fuzzy Inference System (ANFIS)  [[2]](#2), [[3]](#3).
